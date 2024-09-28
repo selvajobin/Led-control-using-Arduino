@@ -1,6 +1,6 @@
-#### NAME:SELVA JOBIN S 
-#### REG NO: 212223220102
-# EXPERIMENT NO:1 Led control using Arduino
+ NAME:SELVA JOBIN S 
+ REG NO: 212223220102
+# EX NO 1:Led control using Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
